@@ -1,0 +1,42 @@
+
+body {
+  background: url("https://i0.wp.com/salienthealthcare.com/wp-content/uploads/2020/03/AdobeStock_133621255-scaled.jpeg?ssl=1") no-repeat;
+  background-size: cover;
+  color:aliceblue;
+}
+a{
+  margin-right: 5%;
+  color:aliceblue;
+}
+main {
+padding: 70px;
+  text-align: left;
+  color:aliceblue;
+  border-radius: 20px;
+
+  margin-top: 40px;
+}
+
+
+li{
+margin-right: 40%;
+color:aliceblue;
+}
+nav ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+nav li {
+display: inline-block;
+margin-right: 150px;
+  border-radius: 20px;
+}
+
+nav a {
+color: #fff;
+text-decoration: white;
+  white-space: 20px;
+  border-radius: 20px;
+}
